@@ -5,6 +5,8 @@ body {
   background-position-x: center;
   background-position-y: center;
   color: white;
+  background-image: url(hatter.jpg);
+  font-family: Geneva, sans-serif;
 }
 
 #tartalom {
